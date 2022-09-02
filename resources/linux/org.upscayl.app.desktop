@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Upscayl
+Exec=electron-wrapper %U
+Terminal=false
+Type=Application
+Icon=org.upscayl.app
+StartupWMClass=Upscayl
+Comment=Upscayl - Free and Open Source AI Image Upscaler
+Categories=Graphics;2DGraphics;RasterGraphics;ImageProcessing;
